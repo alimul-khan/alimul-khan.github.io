@@ -1,1 +1,146 @@
-Hello World
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alimul Haque Khan | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        function showSection(sectionId) {
+            const sections = document.querySelectorAll('section');
+            sections.forEach(section => {
+                section.style.display = 'none';
+            });
+            document.getElementById(sectionId).style.display = 'block';
+        }
+        document.addEventListener('DOMContentLoaded', () => {
+            showSection('highlights');
+        });
+    </script>
+</head>
+<body>
+    <header>
+        <h1>Alimul Haque Khan</h1>
+        <nav>
+            <a href="#" onclick="showSection('highlights')">Highlights</a>
+            <a href="#" onclick="showSection('education')">Education</a>
+            <a href="#" onclick="showSection('skills')">Skills</a>
+            <a href="#" onclick="showSection('experience')">Experience</a>
+            <a href="#" onclick="showSection('publications')">Publications</a>
+            <a href="#" onclick="showSection('contact')">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="highlights">
+            <h2>Highlights of Qualifications</h2>
+            <ul>
+                <li>Pursuing a Ph.D. in forest fire detection, focusing on sensors, energy strategies, and deployment tactics.</li>
+                <li>Specialized in sensor technology and wireless data transmission in mining and energy sectors.</li>
+                <li>Developed over 10 embedded system products, showcasing expertise in cutting-edge technology.</li>
+                <li>Directed technical teams, advancing workforce skills in renewable energy and sensor technology.</li>
+                <li>Over six years of academic experience at Bangladesh University, mentoring and educating students.</li>
+            </ul>
+        </section>
+
+        <section id="education">
+            <h2>Education</h2>
+            <ul>
+                <li><strong>PhD in Electrical Engineering</strong>, University of Saskatchewan (Jan 2023 - Continuing)</li>
+                <li><strong>MSc in Electrical Engineering</strong>, University of Saskatchewan (May 2018)</li>
+                <li><strong>MSc in Electrical and Electronic Engineering</strong>, BUET (Oct 2014)</li>
+                <li><strong>BSc in Electrical and Electronic Engineering</strong>, BUET (Mar 2009)</li>
+            </ul>
+        </section>
+
+        <section id="skills">
+            <h2>Technical Skills</h2>
+            <ul>
+                <li><strong>Embedded Systems:</strong> STM, Arduino, ESP, Raspberry Pi, FPGA</li>
+                <li><strong>Programming:</strong> C, C++, MATLAB, Python, R, Verilog</li>
+                <li><strong>Design:</strong> Fusion 360, Proteus, Altium Designer</li>
+                <li><strong>Article Processing:</strong> MS Office, LATEX, Overleaf</li>
+                <li><strong>Renewable Energy Analysis:</strong> HOMER, PVSyst, RETScreen</li>
+            </ul>
+        </section>
+
+        <section id="experience">
+            <h2>Professional Experience</h2>
+            <article>
+                <h3>Research Assistant</h3>
+                <p><strong>University of Saskatchewan</strong> | Jan 2023 - Present</p>
+                <ul>
+                    <li>Researching wildfire detection methods and low-energy sensor technologies.</li>
+                    <li>Developing renewable energy solutions for eco-friendly monitoring systems.</li>
+                    <li>Collaborating in multidisciplinary teams for national interest projects.</li>
+                </ul>
+            </article>
+            <article>
+                <h3>Research and Development Associate</h3>
+                <p><strong>WIoT Inc.</strong> | Oct 2020 - Dec 2022</p>
+                <ul>
+                    <li>Engineered HazTrack Level Tracker for hazardous environment monitoring.</li>
+                    <li>Conducted experiments on energy harvesting and RF-triggered wake-up technology.</li>
+                    <li>Prepared patent applications, grant proposals, and technical documentation.</li>
+                </ul>
+            </article>
+        </section>
+
+        <section id="publications">
+            <h2>Publications</h2>
+            <ul>
+                <li><strong>Thesis and Dissertation</strong></li>
+                <ul>
+                    <li>"Design of an Optical Sensor to Detect Human Intestinal Bleeding for Capsule Endoscopy," Master of Science, Electrical Engineering, University of Saskatchewan, April 2018.</li>
+                    <li>"Analysis of an electrical microgrid in a remote area based on distributed energy resources," Master of Science, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, September 2014.</li>
+                    <li>"Development of a Model to Forecast The Electrical Energy of Bangladesh using LEAP Software," Bachelor of Science, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, April 2009.</li>
+                </ul>
+        
+                <li><strong>Patent Application</strong></li>
+                <ul>
+                    <li>"Methods and devices for in situ detection of a composition of a fluid within a gastrointestinal tract," U.S. Patent Application No. 20200330004, Published October 22, 2020.</li>
+                </ul>
+        
+                <li><strong>Journals</strong></li>
+                <ul>
+                    <li>"Is there an application for wireless capsule endoscopy in horses?", The Canadian Veterinary Journal, 2017 Dec; 58(12): 1321–1325.</li>
+                    <li>"A Way to Unlock the Electricity Energy Market for The Common People Using CP Model," Engineering International, 2016, Vol 4, No 2.</li>
+                    <li>"A Review on Electricity Generation and Evacuation in Bangladesh," Energy and Power, 2015, 5(1): 10-16.</li>
+                    <li>"A Noble Design of DC Micro-Grid for Rural Area in Bangladesh," International Journal Of Technology Enhancements And Emerging Engineering Research, Volume 3 - Issue 1, January 2015, pp. 19-26.</li>
+                    <li>"Analysis of Wind Characteristics and Wind Energy Potential in Coastal Area of Bangladesh: Case Study - Cox’s Bazar," ELEKTRIKA journal, Malaysia, 15(2), 2013, 1-10.</li>
+                    <li>"Design, Analysis, and Implementation of a Robotic Arm- The Animator," American Journal of Engineering Research, Volume-02, Issue-10, pp-298-307.</li>
+                </ul>
+        
+                <li><strong>Conferences</strong></li>
+                <ul>
+                    <li>"A Hour-Ahead Wind Speed Forecasting Using One-Dimensional Convolutional Neural Network," 2023 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE).</li>
+                    <li>"Automatic Detection of Intestinal Bleeding using an Optical Sensor for Wireless Capsule Endoscopy," 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society.</li>
+                    <li>"A Color Frame Reproduction Technique for IoT-based Video Surveillance Application," IEEE International Symposium on Circuits and Systems-ISCAS2017.</li>
+                    <li>"A Systematic Approach for Finding the Optimum Tilt Angle for Meeting the Maximum Energy Demand- for an Isolated Area," 3rd IEEE International Conference on Electrical Engineering and Information & Communication Technology, 2015.</li>
+                    <li>"Source Management of a Hybrid DC Micro-Grid in Rural Area of Bangladesh," International Conference on Materials, Electronics & Information Engineering, 2015.</li>
+                    <li>"Consumer is Producer A Novel Model for Electricity Generation," 3rd IEEE International Conference on Green Energy Technology, 2015.</li>
+                    <li>"A Review of Current Renewable Energy Activities in Bangladesh," 3rd IEEE International Conference on Green Energy Technology, 2015.</li>
+                    <li>"Shifting Generation of Energy of Solar PV Using OPTANG Method - Case Study Sandwip Area," 3rd IEEE International Conference on Green Energy Technology, 2015.</li>
+                    <li>"Empowering Remote Area of Bangladesh Using Pedal Generator," 3rd IEEE International Conference on Green Energy Technology, 2015.</li>
+                </ul>
+        
+                <li><strong>Book Chapter</strong></li>
+                <ul>
+                    <li>"IoT-Based Intelligent Capsule Endoscopy System: A Technical Review," Intelligent Data Analysis for Biomedical Applications, Elsevier Inc, 2019.</li>
+                </ul>
+            </ul>
+        </section>
+        
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>Email: <a href="mailto:alimul.khan@usask.ca">alimul.khan@usask.ca</a></p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/ah-khan" target="_blank">linkedin.com/in/ah-khan</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Alimul Haque Khan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
