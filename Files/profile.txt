@@ -1,0 +1,12 @@
+<div class="w3-display-container">
+  <img src="images/AlimulprofilePic.jpg" style="width:100%; border-radius: 50%;" alt="Avatar">
+</div>
+<div class="w3-container w3-text-black" style="text-align: center; margin-top: 10px;">
+  <h2>Alimul Haque Khan</h2>
+</div>
+
+<div class="w3-container">
+  <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Embedded System Designer</p>
+  <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Saskatoon, SK, Canada</p>
+  <hr>
+</div>

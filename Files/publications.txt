@@ -1,0 +1,71 @@
+<!-- Publications Section -->
+<div class="w3-container w3-card w3-white w3-margin-bottom" id="publications">
+  <h2 class="w3-text-grey w3-padding-16">
+    <i class="fa fa-book fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Publications
+  </h2>
+
+  <!-- Journals -->
+  <div class="w3-container">
+    <h4 class="w3-opacity"><b>Journals</b></h4>
+    <ol>
+      <li>Julia B. Montgomery, Jose L. Bracamonte, Mohammad Wajih Alam, <b>Alimul H. Khan</b>, Shahed K. Mohammed, Khan A. Wahid, "Is there an application for wireless capsule endoscopy in horses?" Canadian Veterinary Journal, 2017 Dec; 58(12): 1321–1325.</li>
+      <li><b>Alimul Haque Khan</b>, Maidlul Islam, Md. Aman Khan, "A Way to Unlock the Electricity Energy Market for The Common People Using CP Model," Engineering International 2016, Vol 4, No 2.</li>
+      <li><b>Alimul Haque Khan</b>, Maidlul Islam, Tabassum E. Nur, Sanchita Ghose, "A Review on Electricity Generation and Evacuation in Bangladesh," Energy and Power 2015, 5(1): 10-16.</li>
+      <li><b>Alimul Haque Khan</b>, Anisur Rahman, Md. Moniruzzaman, "A Noble Design of DC Micro-Grid for Rural Area in Bangladesh," International Journal of Technology Enhancements And Emerging Engineering Research, Volume 3 - Issue 1, January 2015, pp. 19-26, ISSN 2347-4289.</li>
+      <li>Asif Islam, Md. Shariful Islam, Md. Mehedi Hasan, <b>Alimul Haque Khan</b>, "Analysis of Wind Characteristics and Wind Energy Potential in Coastal Area of Bangladesh: Case Study - Cox’s Bazar," ELEKTRIKA journal, Malaysia,15(2), 2013, 1-10.</li>
+      <li>Md. Anisur Rahman, <b>Alimul Haque Khan</b>, Dr. Tofayel Ahmed, Md. Mohsin Sajjad, "Design, Analysis, and Implementation of a Robotic Arm- The Animator," American Journal of Engineering Research (AJER), Volume-02, Issue-10, pp-298-307.</li>
+      <li>Md. Shariful Islam, Asif Islam, Md. Mehedi Hasan, <b>Alimul Haque Khan</b>, "Feasibility Study of Wind Power Generation in Bangladesh: A Statistical Study in the Perspective of Wind Power Density and Plant Capacity Factor," International Journal Of Renewable Energy Research (IJRER), Vol.3, No.3, pp: 476-487.</li>
+      <li>Shaidul Hasan Khan, Asif Islam, <b>Alimul Haque Khan</b>, "Energy Forecasting of Bangladesh in Gas Sector Using LEAP Software," Global Journal of Researches in Engineering (GJRE), Volume 11 Issue 1 Version 1, pp: 15-20 February 2011.</li>
+      <li>Dr. Tsutomu Dei, Asif Islam, <b>Alimul Haque Khan</b>, "Current Financial Schemes of Solar Home System Projects in Bangladesh and Users’ Opinion," Global Journal of Researches in Engineering, Vol 10 Issue 5 (Ver. 1.0), pp: 51-55, November 2010.</li>
+    </ol>
+    <hr>
+  </div>
+
+  <!-- Conferences -->
+  <div class="w3-container">
+    <h4 class="w3-opacity"><b>Conferences</b></h4>
+    <ol>
+      <li>Mohammad Hossein Nazemi, Shaikat Chowdhury, <b>Alimul Haque Khan</b>, Xiaodong Liang, "A Hour-Ahead Wind Speed Forecasting Using One-Dimensional Convolutional Neural Network," 2023 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE).</li>
+      <li><b>Alimul Haque Khan</b>, Md Hanif Ali Sohag, Seyed Shahim Vedaei, Mohammad Reza Mohebian, Khan A. Wahid, "Automatic Detection of Intestinal Bleeding using an Optical Sensor for Wireless Capsule Endoscopy," 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society.</li>
+      <li>Rashedul Hasan, Shahed K. Mohammed, <b>Alimul Haque Khan</b>, Khan A. Wahid, "A Color Frame Reproduction Technique for IoT-based Video Surveillance Application," IEEE International Symposium on Circuits and Systems-ISCAS 2017, Baltimore, MD, USA.</li>
+      <li><b>Alimul Haque Khan</b>, Asif Islam, Md. Shariful Islam, Mohammad Saifur Rahman, "A Systematic Approach for Finding the Optimum Tilt Angle for Meeting the Maximum Energy Demand- for an Isolated Area," 3rd IEEE International Conference on Electrical Engineering and Information & Communication Technology, iECEiCT-2015,21-23 May 2015, Bangladesh. DOI: 10.1109/ICEEICT.2015.7307343</li>
+      <li><b>Alimul Haque Khan</b>, Hafsa Hakim Pial, Asif Islam, Md. Shariful Islam, Md. Mehedi Hasan, Mohammad Saifur Rahman, "Consumer is Producer A Novel Model for Electricity Generation," 3rd IEEE International Conference on Green Energy Technology, 11-12 September 2015, Bangladesh. DOI: 10.1109/ICGET.2015.7315089</li>
+      <li><b>Alimul Haque Khan</b>, Md. Moniruzzaman, Md. Anisur Rahman, "Source Management of a HybridDC Micro-Grid in Rural Area of Bangladesh," International Conference on Materials, Electronics & Information Engineering, ICMEIE-2015, Rajshahi, Bangladesh.</li>
+      <li><b>Alimul Haque Khan</b>, Kazi Rehnuma Zafreen, Asif Islam, Md. Aman Khan, "Shifting Generation of Energy of Solar PV Using OPTANG Method - Case Study Sandwip Area," 3rd IEEE International Conference on Green Energy Technology, 11-12 September 2015, Bangladesh. DOI: 10.1109/ICGET.2015.7315106</li>
+      <li><b>Alimul Haque Khan</b>, Md. Moniruzzaman, Md. Muhibullah, Md. Mehedi Hasan, Niaz Morshed, "Empowering Remote Area of Bangladesh Using Pedal Generator," 3rd IEEE International Conference on Green Energy Technology, 11-12 September 2015, Bangladesh.</li>
+      <li>Sayed Ahmed Suman, <b>Alimul Haque Khan</b>, Tabassum E. Nur, Sanchita Ghose, "A Hybrid of 30 KW Solar PV and 30 KW Biomass System for Rural Electrification in Bangladesh", 3rd IEEE International Conference on Green Energy Technology, 11-12 September 2015, Bangladesh.</li>
+      <li><b>Alimul Haque Khan</b>, Hafsa Hakim Pial, Asif Islam, Md. Mehedi Hasan, Md. Shariful Islam, Mohammad Saifur Rahman, "A Review of Current Renewable Energy Activities in Bangladesh," 3rd IEEE International Conference on Green Energy Technology, 11-12 September 2015, Bangladesh. DOI: 10.1109/ICGET.2015.7315097</li>
+    </ol>
+    <hr>
+  </div>
+
+
+  <!-- Thesis and Dissertation -->
+  <div class="w3-container">
+    <h4 class="w3-opacity"><b>Thesis and Dissertation</b></h4>
+    <ol>
+      <li><b>Alimul Haque Khan</b>, "Design of an Optical Sensor to Detect Human Intestinal Bleeding for Capsule Endoscopy," Master of Science, Electrical Engineering, University of Saskatchewan, April 2018.</li>
+      <li><b>Alimul Haque Khan</b>, "Analysis of an electrical microgrid in a remote area based on distributed energy resources," Master of Science, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, September 2014.</li>
+      <li><b>Alimul Haque Khan</b>, "Development of a Model to Forecast The Electrical Energy of Bangladesh using LEAP Software," Bachelor of Science, Electrical and Electronic Engineering, Bangladesh University of Engineering and Technology, April 2009.</li>
+    </ol>
+    <hr>
+  </div>
+
+  <!-- Patent Application -->
+  <div class="w3-container">
+    <h4 class="w3-opacity"><b>Patent Application</b></h4>
+    <ol>
+      <li><b>Wahid, K. A., & Khan, A. H.</b> (2020). Methods and devices for in situ detection of a composition of a fluid within a gastrointestinal tract. U.S. Patent Application No. 20200330004. Filed April 15, 2020. Published October 22, 2020.</li>
+    </ol>
+    <hr>
+  </div>
+
+
+  <!-- Book Chapter -->
+  <div class="w3-container">
+    <h4 class="w3-opacity"><b>Book Chapter</b></h4>
+    <ol>
+      <li>Mohammad Wajih Alam, Md Hanif Ali Sohag, <b>Alimul H. Khan</b>, Tanin Sultana, Khan A. Wahid, "IoT-Based Intelligent Capsule Endoscopy System: A Technical Review," in Intelligent Data Analysis for Biomedical Applications, Elsevier Inc., 2019, ISBN: 978-0-12-815553-0.</li>
+    </ol>
+  </div>
+</div>

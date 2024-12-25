@@ -1,0 +1,38 @@
+<!-- Certification and Training Section -->
+<div class="w3-container w3-card w3-white w3-margin-bottom" id="certification-training">
+  <h2 class="w3-text-grey w3-padding-16">
+    <i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Certification and Training
+  </h2>
+  <ul>
+    <li><b>Mental Health First Aid Basic</b><br>
+      Mental Health Commission of Canada - <i>Nov 2023</i>
+    </li>
+    <li><b>Introduction to Ethics Course for Graduate Students</b><br>
+      University of Saskatchewan - <i>Jan 2023</i>
+    </li>
+    <li><b>Workplace Hazardous Materials Information System (WHMIS)</b><br>
+      University of Saskatchewan - <i>Jan 2023</i>
+    </li>
+    <li><b>Safety Orientation for Employees 2023-2024</b><br>
+      University of Saskatchewan - <i>Jan 2023</i>
+    </li>
+    <li><b>Safety Orientation for Supervisors 2023-2024</b><br>
+      University of Saskatchewan - <i>Jan 2023</i>
+    </li>
+    <li><b>Canadian Academic Acculturation and Literacy for International Graduate Students</b><br>
+      University of Saskatchewan - <i>Aug 2016</i>
+    </li>
+    <li><b>Embedded System Design by FPGA and Microcontroller</b><br>
+      Bangladesh University of Engineering and Technology, Dhaka, Bangladesh - <i>Feb 2013</i>
+    </li>
+    <li><b>Training on Teaching Methods and Techniques</b><br>
+      Bangladesh University, Dhaka by Graduate Training Institute (GTI) - <i>Dec 2008</i>
+    </li>
+    <li><b>Programming of PLC for Industrial Automation, Maintenance, and Troubleshooting</b><br>
+      Engineering Staff College, Dhaka, Bangladesh - <i>Dec 2008</i>
+    </li>
+    <li><b>Industrial Training on Power Station</b><br>
+      Bangladesh University of Engineering and Technology, Dhaka, Bangladesh - <i>Nov-Jan 2009</i>
+    </li>
+  </ul>
+</div>

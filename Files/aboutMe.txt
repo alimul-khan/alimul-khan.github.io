@@ -1,0 +1,10 @@
+
+    <!-- About Me Section -->
+    <div class="w3-container">
+      <h3 class="w3-text-teal"><i class="fa fa-user fa-fw w3-margin-right"></i>About Me</h3>
+      <p>
+        I am an experienced Embedded System Designer specializing in developing innovative solutions for IoT, renewable energy, and automation systems. With a strong academic and professional background, I excel in designing efficient, real-time systems and mentoring aspiring engineers. Passionate about sustainable energy and advancing sensor technologies, I thrive on solving real-world challenges through technology.
+      </p>
+      <hr>
+    </div>
+

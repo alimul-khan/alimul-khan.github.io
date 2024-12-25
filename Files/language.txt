@@ -1,0 +1,18 @@
+
+    <!-- Languages Section -->
+    <div class="w3-container">
+      <h3 class="w3-text-teal"><i class="fa fa-globe fa-fw w3-margin-right"></i>Languages</h3>
+      <p>Bengali</p>
+      <div class="w3-light-grey w3-round-xlarge">
+        <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+      </div>
+      <p>English</p>
+      <div class="w3-light-grey w3-round-xlarge">
+        <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+      </div>
+      <p>Urdu/Hindi</p>
+      <div class="w3-light-grey w3-round-xlarge">
+        <div class="w3-round-xlarge w3-teal" style="height:24px;width:60%"></div>
+      </div>
+      <hr>
+    </div>

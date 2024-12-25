@@ -1,0 +1,13 @@
+<!-- Membership Section -->
+<div class="w3-container w3-card w3-white w3-margin-bottom" id="membership">
+  <h2 class="w3-text-grey w3-padding-16">
+    <i class="fa fa-id-card fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Membership
+  </h2>
+  <ul>
+    <li>Institute of Electrical and Electronics Engineers (IEEE)</li>
+    <li>Association of Professional Engineers and Geoscientists of Saskatchewan (APEGS)</li>
+    <li>Institution of Engineers, Bangladesh</li>
+    <li>Bangladesh Student Association of University of Saskatchewan</li>
+    <li>General Secretary of Bangladeshi Cultural Association of Saskatchewan Since December 2023</li>
+  </ul>
+</div>

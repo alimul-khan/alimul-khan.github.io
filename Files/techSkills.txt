@@ -1,0 +1,13 @@
+  <!-- Technical Skills Section -->
+  <div class="w3-container w3-card w3-white w3-margin-bottom" id="technical-skills">
+    <h2 class="w3-text-grey w3-padding-16">
+      <i class="fa fa-cogs fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Technical Skills
+    </h2>
+    <ul>
+      <li><b>Embedded System Design Tools:</b> STM, Arduino, ESP, Raspberry Pi, FPGA.</li>
+      <li><b>Programming and Analysis Tools:</b> C, C++, MATLAB, GNU Octave, Python, R, Verilog.</li>
+      <li><b>Article Processing:</b> MS Office, LaTeX, TexMaker, Overleaf, Mendeley.</li>
+      <li><b>Design:</b> Fusion 360, Proteus Professional, Altium Designer.</li>
+      <li><b>Renewable Energy Analysis:</b> HOMER, PVSyst, RETScreen, LEAP.</li>
+    </ul>
+  </div>

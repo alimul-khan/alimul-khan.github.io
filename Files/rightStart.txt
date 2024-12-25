@@ -1,0 +1,2 @@
+    <!-- Right Column -->
+    <div class="w3-twothird">

@@ -1,0 +1,18 @@
+<!-- Community Involvement Section -->
+<div class="w3-container w3-card w3-white w3-margin-bottom" id="community-involvement">
+  <h2 class="w3-text-grey w3-padding-16">
+    <i class="fa fa-users fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Community Involvement
+  </h2>
+  <div class="w3-container">
+    <h5 class="w3-opacity"><b>Community Involvement in Saskatchewan, Canada</b></h5>
+    <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Since May 2016</h6>
+    <ul>
+      <li>Elevated to the role of General Secretary in December 2023 at the Bangladeshi Cultural Association of Saskatchewan (BCAS). Responsibilities include leading the coordination and organization of cultural events to promote Bangladeshi heritage.</li>
+      <li>Actively foster community engagement, enhance cultural understanding, and strengthen community connections in Saskatchewan as a member of BCAS.</li>
+      <li>Manage team efforts and communications, and collaborate with other cultural organizations for inclusive and diverse event hosting.</li>
+      <li>Consistently engaged as an active member of the Bangladeshi Student Association at the University of Saskatchewan, contributing to cultural, educational, and social initiatives.</li>
+      <li>Participate in organizing and facilitating seminars, cultural events, and networking activities, celebrating diversity and enhancing student engagement.</li>
+      <li>Provide mentorship to new students, assisting with their transition to university life and adaptation to the cultural landscape of Saskatchewan.</li>
+    </ul>
+  </div>
+</div>

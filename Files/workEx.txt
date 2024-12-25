@@ -1,0 +1,73 @@
+<!-- Work Experience -->
+<div class="w3-container w3-card w3-white w3-margin-bottom" id="work-experience">
+  <h2 class="w3-text-grey w3-padding-16">
+    <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience
+  </h2>
+
+  <div class="w3-container">
+    <h5 class="w3-opacity"><b>Research Assistant</b></h5>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2023 - Present
+    </h6>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-building fa-fw w3-margin-right"></i>University of Saskatchewan, Saskatoon, SK, Canada
+    </h6>
+    <ul>
+      <li>Conducting extensive research on wildfire detection and prevention methods, contributing to national safety and environmental sustainability.</li>
+      <li>Designing and testing low-energy sensor technologies for early wildfire detection, enhancing disaster preparedness and mitigation.</li>
+      <li>Utilizing statistical analysis software to analyze data collection, strengthening research outcomes in environmental monitoring.</li>
+      <li>Collaborating within a multidisciplinary team to progress research projects aimed at national interest objectives.</li>
+      <li>Engaging in the development of renewable energy solutions to power sensor operations, establishing self-sufficient and eco-friendly monitoring systems.</li>
+    </ul>
+    <hr>
+  </div>
+
+  <div class="w3-container">
+    <h5 class="w3-opacity"><b>Research and Development Associate</b></h5>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2020 - Dec 2022
+    </h6>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-building fa-fw w3-margin-right"></i>WIoT Inc., Saskatoon, SK, Canada
+    </h6>
+    <ul>
+      <li>Engineered the HazTrack Level Tracker for monitoring chemical tanks, involving schematic and PCB design, prototype assembly, and firmware development.</li>
+      <li>Pioneered experimental frameworks using Arduino, Espressif, and Raspberry Pi platforms for advancing IoT solutions.</li>
+      <li>Authored technical reports, standard testing procedures, and grant proposals, enriching the knowledge base in smart technology.</li>
+      <li>Contributed to energy harvesting and RF-triggered wake-up technology research areas, promoting public safety and environmental preservation.</li>
+    </ul>
+    <hr>
+  </div>
+
+  <div class="w3-container">
+    <h5 class="w3-opacity"><b>Graduate Assistant</b></h5>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2016 - Apr 2018
+    </h6>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-building fa-fw w3-margin-right"></i>University of Saskatchewan, Saskatoon, SK, Canada
+    </h6>
+    <ul>
+      <li>Developed the iSensor, advancing medical sensor technology for prototyping and application.</li>
+      <li>Conducted comprehensive research analysis to interpret datasets and enhance project outcomes through interdisciplinary collaboration.</li>
+      <li>Presented research findings at seminars and conferences, engaging with the academic community.</li>
+    </ul>
+    <hr>
+  </div>
+
+  <div class="w3-container">
+    <h5 class="w3-opacity"><b>Lecturer</b></h5>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Apr 2016
+    </h6>
+    <h6 class="w3-text-teal">
+      <i class="fa fa-building fa-fw w3-margin-right"></i>Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+    </h6>
+    <ul>
+      <li>Led PCB design and Microcontroller programming courses, advancing sensor technology and renewable energy solutions.</li>
+      <li>Supervised student projects, including solar trackers and charge controllers, aligning with global energy objectives.</li>
+      <li>Published articles in peer-reviewed journals on sensor design and renewable energy.</li>
+    </ul>
+    <hr>
+  </div>
+</div>

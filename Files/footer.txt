@@ -1,0 +1,16 @@
+<!-- Footer -->
+<footer class="w3-container w3-teal w3-center w3-margin-top" id="footer">
+  <p>I am here.</p>
+  
+  <a href="https://www.linkedin.com/in/ah-khan/" target="_blank" class="w3-hover-opacity" style="margin: 0 10px;">
+    <i class="fa fa-linkedin"></i>
+  </a>
+  
+  <a href="https://scholar.google.ca/citations?hl=en&user=rS4eA50AAAAJ" target="_blank" class="w3-hover-opacity" style="margin: 0 10px;">
+    <i class="fa fa-graduation-cap"></i>
+  </a>
+  
+  <a href="mailto:alimul.khan@usask.ca" class="w3-hover-opacity" style="margin: 0 10px;">
+    <i class="fa fa-envelope"></i>
+  </a>
+</footer>
