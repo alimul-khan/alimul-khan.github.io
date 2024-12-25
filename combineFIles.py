@@ -60,9 +60,9 @@ file_order = [
     'language.txt',  # Language content
     leftEnd,
     rightColStart,
+    'techSkills.txt',
     'workEx.txt',  # Work experience content
     'education.txt',  # Education content
-    'techSkills.txt',
     'community.txt',
     'membership.txt',
     'training.txt',

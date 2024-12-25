@@ -5,9 +5,9 @@
     </h2>
     <ul>
       <li><b>Embedded System Design Tools:</b> STM, Arduino, ESP, Raspberry Pi, FPGA.</li>
-      <li><b>Programming and Analysis Tools:</b> C, C++, MATLAB, GNU Octave, Python, R, Verilog.</li>
+      <li><b>Programming and Analysis Tools:</b> C, C++, MATLAB, GNU Octave, Python, R.</li>
       <li><b>Article Processing:</b> MS Office, LaTeX, TexMaker, Overleaf, Mendeley.</li>
-      <li><b>Design:</b> Fusion 360, Proteus Professional, Altium Designer.</li>
+      <li><b>Design:</b> KiCad, Proteus Professional, Altium Designer.</li>
       <li><b>Renewable Energy Analysis:</b> HOMER, PVSyst, RETScreen, LEAP.</li>
     </ul>
   </div>

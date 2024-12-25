@@ -4,6 +4,25 @@
     <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience
   </h2>
 
+    <div class="w3-container">
+      <h5 class="w3-opacity"><b>Research Intern</b></h5>
+      <h6 class="w3-text-teal">
+        <i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2024 - Present
+      </h6>
+      <h6 class="w3-text-teal">
+        <i class="fa fa-building fa-fw w3-margin-right"></i>Thermonalysis, Toronto, ON, Canada
+      </h6>
+      <ul>
+        <li>Developing automated, contactless food temperature sensors for restaurants and commercial kitchens to enhance operational efficiency.</li>
+        <li>Designing systems that continuously monitor food temperatures and integrate with web applications for real-time data accessibility.</li>
+        <li>Replacing manual, error-prone processes with innovative IoT-enabled solutions, improving food safety standards.</li>
+        <li>Incorporating machine learning and computer vision techniques to ensure precise monitoring and data analysis.</li>
+        <li>Collaborating on the development of lightweight, embedded software and cloud-based solutions for seamless system integration.</li>
+      </ul>
+      <hr>
+    </div>
+
+
   <div class="w3-container">
     <h5 class="w3-opacity"><b>Research Assistant</b></h5>
     <h6 class="w3-text-teal">
